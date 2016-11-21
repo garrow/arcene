@@ -1,0 +1,4 @@
+---
+dotfiles_repo: "https://github.com/garrow/dotfiles.git"
+dotfiles_repo_accept_hostkey: no
+dotfiles_repo_local_destination: "~/.dotfiles"

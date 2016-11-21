@@ -1,0 +1,21 @@
+galaxy_info:
+  author: garrow
+  description: Dotfiles with self-installer
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.9
+  platforms:
+  - name: GenericUNIX
+    versions:
+      - all
+      - any
+  - name: GenericBSD
+    versions:
+      - all
+      - any
+  - name: GenericLinux
+    versions:
+      - all
+      - any
+  galaxy_tags:
+    - development
+    - system
